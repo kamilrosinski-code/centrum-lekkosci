@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://centrumlekkosci.pl/sitemap.xml
